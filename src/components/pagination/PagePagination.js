@@ -60,7 +60,6 @@ export const PagePagination = (props) => {
           alt=""
         />
       </PrevButton>
-      
       <NextButton
         page={props.page}
         totalpages={props.totalPages}

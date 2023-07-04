@@ -40,6 +40,7 @@ const Content = styled.div`
 const Name = styled.h1`
   font-size: 2rem;
   line-height: 1.2;
+  text-align: center;
 `;
 
 const Species = styled.p`
